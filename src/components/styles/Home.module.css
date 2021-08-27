@@ -1,0 +1,27 @@
+.container {
+    margin: 0vh 15vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 50vw;
+}
+
+.albumCover > img {
+    width: 80px;
+    height: 60px;
+}
+
+.albumCover > a {
+    position: absolute;
+    margin: 10px 30px;
+}
+
+.heading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    margin: 5vh 18vw;
+}
+
+.heading + h2 {
+    margin: 5vh 18vw;
+}

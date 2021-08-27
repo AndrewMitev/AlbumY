@@ -1,0 +1,45 @@
+.container {
+    margin-left: 7vw;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    max-width: 80vw;
+}
+
+.containerItem {
+    margin: 20px;
+}
+
+.photo {
+    width: 100px;
+    height: 120px;
+}
+
+.searchBar {
+    margin: 5vh 20vw;
+    width: 50vw;
+    height: 2vh;
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.likeButton {
+    outline: none;
+    border-radius: 20px;
+    border: 2px solid black;
+    background-color: white;
+    cursor: pointer;
+}
+
+.likeButtonLiked {
+    outline: none;
+    border-radius: 20px;
+    border: 2px solid black;
+    background-color: red;
+    cursor: pointer;
+}
+
+.likeButton:hover {
+    background-color: purple;
+}
