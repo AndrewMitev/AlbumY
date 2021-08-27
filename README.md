@@ -1,5 +1,13 @@
 A ReactJS Application representing a virtual album.
 
+* Fetching a collection of photos from an online api.
+* Animated Side Menu.
+* Dynamic Search.
+* Ability to add photo to favourites.
+
+![Alt text](./screen1.png?raw=true "Screen One")
+![Alt text](./screen2.png?raw=true "Screen Two")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
